@@ -35,7 +35,7 @@ action. By using app we are controlling the services of all toilet. And also fro
 
 ## Demo video
 
-[![Click here to watch video](https://github.com/tahir303/She-Hackathon-project/edit/main/images/thumbnail)](https://www.youtube.com/watch?v=TgvErKzTPdo)
+[![Click here to watch video](https://github.com/tahir303/She-Hackathon-project/edit/main/images/thumbnail.jpg)](https://www.youtube.com/watch?v=TgvErKzTPdo)
 
 ## The architecture
 
