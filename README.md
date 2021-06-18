@@ -2,7 +2,7 @@
 
 ## Contents
 
-- [Smart Toilet](#smart-toilet)
+- [Green Sanitition System](#green_sanitition_system)
   - [Contents](#contents)
   - [Short description](#short-description)
     - [What's the problem?](#whats-the-problem)
