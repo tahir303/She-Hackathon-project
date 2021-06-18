@@ -63,3 +63,9 @@ The following people have contributed to the concept/code:
 - Aishwarya Deshmane
 - Jagruti Vilas Rane
 - Tahir Ali
+
+## Acknowledgments
+
+We are grateful to our respectable teacher, Mr. Hrishikesh Dhanwate sir whose insightful leadership and knowledge benefited us to complete this project successfully. Thank you so much for your continuous support and presence whenever needed. 
+We thank to "hackathone'21" Group for give us this opportunity. 
+Thank you!
