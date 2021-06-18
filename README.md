@@ -61,5 +61,5 @@ The following people have contributed to the concept/code:
 - Prajakta Bharat Navtake
 - Neeraj Navanath Raje
 - Aishwarya Deshmane
-- Jagruti Rane
+- Jagruti Vilas Rane
 - Tahir Ali
