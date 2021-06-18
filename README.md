@@ -57,3 +57,9 @@ Considering the cleanliness in india our team 'innovation greek' Implement the "
 - [Cloud Object Storage](https://cloud.ibm.com/objectstorage/create)
 
 ## Contributors
+
+The following people have contributed to the concept/code:
+- Prajakta Bharat Navtake
+- Neeraj Navanath Raje
+- Aishwarya Deshmane
+- Jagruti Rane
