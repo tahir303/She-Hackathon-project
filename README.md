@@ -12,7 +12,6 @@
   - [The architecture](#the-architecture)
   - [Long description](#long-description)
   - [Project roadmap](#project-roadmap)
-  - [Getting started](#getting-started)
   - [Built with](#built-with)
   - [Contributors](#contributors)
   - [Acknowledgments](#acknowledgments)
