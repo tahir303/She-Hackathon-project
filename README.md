@@ -2,7 +2,7 @@
 
 ## Contents
 
-- [Green Sanitition System](#green_sanitition_system)
+- [Green Sanitition System](#green-sanitition-system)
   - [Contents](#contents)
   - [Short description](#short-description)
     - [What's the problem?](#whats-the-problem)
