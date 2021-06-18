@@ -35,7 +35,7 @@ Considering the cleanliness in india our team 'innovation greek' Implement the "
 
 ## Demo video
 
-[![Click here to watch video](https://github.com/tahir303/She-Hackathon-project/edit/main/README.md)}(https://www.youtube.com/watch?v=TgvErKzTPdo)
+[![Click here to watch video](https://github.com/tahir303/She-Hackathon-project/edit/main/README.md)](https://www.youtube.com/watch?v=TgvErKzTPdo)
 
 ## The architecture
 
